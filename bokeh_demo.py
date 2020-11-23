@@ -7,7 +7,7 @@ Created on Sun Nov 22 15:37:31 2020
 
 # Imports
 from bokeh.io import curdoc
-from bokeh.models import ColumnDataSource, HoverTool
+from bokeh.models import HoverTool
 from bokeh.plotting import figure
 from bokeh.layouts import widgetbox, row
 from bokeh.models import Slider, TextInput
